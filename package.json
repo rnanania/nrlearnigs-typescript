@@ -7,7 +7,7 @@
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc --watch",
-    "dev": "tsx watch src/primitive.ts",
+    "dev": "tsx watch src/one.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
